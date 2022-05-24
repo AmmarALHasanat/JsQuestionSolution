@@ -1,6 +1,6 @@
 ﻿# JsQuestionSolution
  
-## Q1) frequencySort.js
+## Q1) frequencySort
 Given an array of integers, create a 2-dimensional array 
 where the first element is a distinct value from the array and 
 the second element is that value's frequency within the array.  
